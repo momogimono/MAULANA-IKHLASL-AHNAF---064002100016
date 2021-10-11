@@ -1,0 +1,15 @@
+Created on Mon Oct 11 13:41:44 2021
+
+@author: User
+NAMA : MAULANA IKHLASUL AHNAF
+NIM : 064002100016
+
+"""
+
+x = int(input("masukin angka : "))
+
+while x > 0:
+    for i in range(x):
+        print(x , end="")
+    print()
+    x -=1        
